@@ -1,0 +1,20 @@
+D:\programs\programe saves\save Visual Studio\MultiEncryptTool\MultiEncryptTool\bin\Debug\MultiEncryptTool.exe.config
+D:\programs\programe saves\save Visual Studio\MultiEncryptTool\MultiEncryptTool\bin\Debug\MultiEncryptTool.exe
+D:\programs\programe saves\save Visual Studio\MultiEncryptTool\MultiEncryptTool\bin\Debug\MultiEncryptTool.pdb
+D:\programs\programe saves\save Visual Studio\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.Properties.Resources.resources
+D:\programs\programe saves\save Visual Studio\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.csproj.GenerateResource.Cache
+D:\programs\programe saves\save Visual Studio\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.exe
+D:\programs\programe saves\save Visual Studio\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.pdb
+D:\programs\programe saves\save Visual Studio\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.Form1.resources
+D:\imagini jocuri\MultiEncryptTool\MultiEncryptTool\bin\Debug\MultiEncryptTool.exe.config
+D:\imagini jocuri\MultiEncryptTool\MultiEncryptTool\bin\Debug\MultiEncryptTool.exe
+D:\imagini jocuri\MultiEncryptTool\MultiEncryptTool\bin\Debug\MultiEncryptTool.pdb
+D:\imagini jocuri\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.csprojResolveAssemblyReference.cache
+D:\imagini jocuri\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.Form1.resources
+D:\imagini jocuri\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.Properties.Resources.resources
+D:\imagini jocuri\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.csproj.GenerateResource.Cache
+D:\imagini jocuri\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.csproj.CoreCompileInputs.cache
+D:\imagini jocuri\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.exe
+D:\imagini jocuri\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.pdb
+D:\programs\programe saves\save Visual Studio\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.csprojResolveAssemblyReference.cache
+D:\programs\programe saves\save Visual Studio\MultiEncryptTool\MultiEncryptTool\obj\Debug\MultiEncryptTool.csproj.CoreCompileInputs.cache
