@@ -17,7 +17,7 @@ This is how the MultiEncrypt tool looks like for the user.
 
 You have many possibilities for encrypting a text:
 
-## No-Key
+### No-Key
 
 * The first thing you want to choose is whether you want to use a Key or not. A Key is used to encrypt a text and you can't decrypt it if you don't have that very Key. If you choose "No-Key" option, then the encryption algorithm will integrate a random key in the encryptioned text.
 
