@@ -35,3 +35,13 @@ You have many possibilities for encrypting a text
 
 ## More functionalities
 
+You can either read a text from a .txt file and write the encrypted text in a .txt folder to simplify the process of saving and loading texts.
+
+This is an example of saving to file method:
+
+![alt text](https://github.com/andrei-voia/multi_encrypt_tool/blob/master/Screenshot_6.png "looks")
+
+
+This is an example of loading from file method:
+
+![alt text](https://github.com/andrei-voia/multi_encrypt_tool/blob/master/Screenshot_7.png "looks")
