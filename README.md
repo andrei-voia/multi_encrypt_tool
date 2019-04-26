@@ -13,11 +13,12 @@ This is how the MultiEncrypt tool looks like for the user.
 ![alt text](https://github.com/andrei-voia/multi_encrypt_tool/blob/master/Screenshot_8.png "looks")
 
 
-## How to use
+# How to use
 
-You have many possibilities for encrypting a text:
+* You have many possibilities for encrypting a text,
+* Here i will try to present and explain the methods you can use to encrypt a text exactly how you want:
 
-### No-Key
+## No-Key
 
 * The first thing you want to choose is whether you want to use a Key or not. A Key is used to encrypt a text and you can't decrypt it if you don't have that very Key. If you choose "No-Key" option, then the encryption algorithm will integrate a random key in the encryptioned text.
 
