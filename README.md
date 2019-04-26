@@ -45,3 +45,10 @@ This is an example of saving to file method:
 This is an example of reading from file method:
 
 ![alt text](https://github.com/andrei-voia/multi_encrypt_tool/blob/master/Screenshot_7.png "looks")
+
+## Bundle programs
+
+The MultiEncrypt Tool should be used together with the Decrypt Tool to succesfully extract the hidden message from the encrypted text.
+
+
+![alt text](https://github.com/andrei-voia/multi_encrypt_tool/blob/master/Screenshot_1.png "looks")
