@@ -27,3 +27,11 @@ You have many possibilities for encrypting a text
 * The "Type" will be either "Normal" or "Safe". The "Normal" option will just encrypt the text while the "Safe" option will check the encrypted text to see if it was correctly encrypted. Basicly this will use an extra step of checking for possible errors.
 
 ![alt text](https://github.com/andrei-voia/multi_encrypt_tool/blob/master/Screenshot_2.png "looks")
+
+* You can also choose what method of encrypting it will use. The basic uses only one iteration while the next ones will encrypt the text multiple times. This can be set in the "Number of interations" field. The difference between the short and the long options is that the short one will try to make the final text shorter by using some personal archieving methods.
+
+![alt text](https://github.com/andrei-voia/multi_encrypt_tool/blob/master/Screenshot_3.png "looks")
+
+
+## More functionalities
+
