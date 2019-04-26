@@ -42,6 +42,6 @@ This is an example of saving to file method:
 ![alt text](https://github.com/andrei-voia/multi_encrypt_tool/blob/master/Screenshot_6.png "looks")
 
 
-This is an example of loading from file method:
+This is an example of reading from file method:
 
 ![alt text](https://github.com/andrei-voia/multi_encrypt_tool/blob/master/Screenshot_7.png "looks")
